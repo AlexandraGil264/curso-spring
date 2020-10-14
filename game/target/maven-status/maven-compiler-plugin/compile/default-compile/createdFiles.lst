@@ -1,0 +1,3 @@
+com\example\game\dtos\GameDto.class
+com\example\game\GameApplication.class
+com\example\game\controllers\GameController.class
